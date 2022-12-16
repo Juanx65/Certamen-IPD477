@@ -1,5 +1,7 @@
 # CERTAMEN IPD 477
 
+## Juan Carlos Aguilera
+
 ## Instalación
 
 Usando virtualenv, cree el enviroment
